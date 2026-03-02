@@ -1,0 +1,2 @@
+# Git Workshop Challenges - minimal deps; stdlib is enough for prepare/grade.
+# Add optional CLI deps here if needed (e.g. click).
